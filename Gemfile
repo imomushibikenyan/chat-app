@@ -71,8 +71,5 @@ group :test do
   gem "webdrivers"
 end
 
-<<<<<<< HEAD
 gem 'devise'
-=======
-gem 'devise'
->>>>>>> 3f6d9ce750ed92cb07eaad3c69bba7563494c8b7
+gem 'pry-rails'
